@@ -1,0 +1,46 @@
+____________________________________
+Connection Details
+____________________________________
+Smart Parking Management System
+Taarun Dev Karthikeyan - 110089870
+____________________________________
+LCD-Arduino Connection
+____________________________________
+
+FUNCTION		CONNECTION 
+VSS			GND
+VDD			5V
+V0			GND
+RS			Arduino D13 
+RW			GND
+EN			Arduino D12
+D0			-
+D1			-
+D2			-
+D3			-
+D4			Arduino D5
+D5			Arduino D4
+D6			Arduino D3
+D7			Arduino D2
+A			5V
+K			-
+____________________________________
+BUTTON-Arduino Connection
+____________________________________
+enter       A1
+exit        A2
+zero        A3
+one         A4
+____________________________________
+RGB LED-Arduino Connection
+____________________________________
+R           D8
+G           D7
+B           D6
+____________________________________
+Servo-Arduino Connection
+____________________________________
+yellow wire  D10
+red wire     5v
+brown wire   gnd
+____________________________________

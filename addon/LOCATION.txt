@@ -1,0 +1,1 @@
+C:\ProgramData\MATLAB\SupportPackages\R2022b\toolbox\matlab\hardware\supportpackages\arduinoio\+arduinoioaddons
